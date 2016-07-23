@@ -1,0 +1,9 @@
+application: gae-login-golang
+module: default
+version: 0-0-1
+
+runtime: go
+vm: true
+api_version: 1
+
+env_variables:
